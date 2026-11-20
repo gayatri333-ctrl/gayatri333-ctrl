@@ -28,16 +28,20 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,sql,mysql,html,css,js,react,nodejs,mongodb,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,postgres,mysql,docker,aws,linux,git,github,vscode&theme=dark" />
 
 </p>
 
 <p align="center">
+  <code>Python</code> ➔ <code>FastAPI</code> ➔ <code>LLMs</code> ➔ <code>Tool Calling</code> ➔ <code>LangGraph</code> ➔ <code>Advanced RAG</code> ➔ <code>MCP</code> ➔ <code>PostgreSQL</code> ➔ <code>Docker</code> ➔ <code>Cloud</code> ➔ <code>AI Evals & Observability</code>
+</p>
 
-<img src="https://img.shields.io/badge/Machine_Learning-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep_Learning-9B8AFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Analytics-5D6DFF?style=for-the-badge"/>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Autonomous_Agents-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-9B8AFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs_&_MCP-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Observability_&_Evals-5D6DFF?style=for-the-badge"/>
 
 </p>
 

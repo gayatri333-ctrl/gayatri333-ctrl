@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF,9B8AFF&height=200&section=header&text=Gayatri%20Dekhane&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Agent%20%26%20Systems%20Engineer%20%7C%20Building%20Autonomous%20AI%20Systems&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Gayatri%20Dekhane&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20Agent%20%26%20Systems%20Engineer%20%7C%20Building%20Autonomous%20AI%20Systems&descAlignY=58&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9B8AFF&center=true&vCenter=true&width=800&lines=AI+Agent+%26+Systems+Engineer+in+the+Making;Architecting+Autonomous+AI+Agents;Building+Agentic+Workflows+%26+Multi-Agent+Systems;LLMs+%7C+Advanced+RAG+%7C+Function+Calling;Engineering+Reliable+AI+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9B8AFF&center=true&vCenter=true&width=900&lines=AI+Agent+%26+Systems+Engineer+in+the+Making;Architecting+Autonomous+AI+Agents;Building+Agentic+Workflows+%26+Multi-Agent+Systems;LLMs+%7C+Advanced+RAG+%7C+Function+Calling;Engineering+Reliable+AI+Systems" />
 
 </div>
 

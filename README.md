@@ -91,12 +91,16 @@ AI Snake agent trained using Deep Reinforcement Learning and Dueling DQN.
 
 <p align="center">
 
-🥇 Industrial Hackathon Winner<br>
-🏅 Google Student Ambassador 2026<br>
-🚀 Smart India Hackathon Shortlisted<br>
-📄 Research Paper Published<br>
-💡 DIPEX Semifinalist<br>
-🔬 Patent Filed – Solar EV
+
+
+🏆 IIT Bombay National Entrepreneurship Challenge (NEC '24) – Top 20 (2024)  
+🥇 Industrial Hackathon Winner – Sanjivani University (2025)  
+📄 Research Paper Published – IJRAR, *Sahayak AI* (2025)  
+🔬 Patent Filed – Solar EV Charging Station with App Control (2025)  
+🌟 E-Cell IIT Bombay – Campus Ambassador (2025–26)  
+⚡ IIT Bombay Techfest – Campus Ambassador (2025–26)  
+🎤 Research Paper Presented – SIESM International Conference (2026)  
+🏅 Google Student Ambassador (2026)
 
 </p>
 

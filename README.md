@@ -1,10 +1,13 @@
 
 <div align="center">
+  <h1>Gayatri Dekhane</h1>
+  <p><b>AI Agent & Systems Engineer | Building Autonomous AI Systems</b></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Gayatri%20Dekhane&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20Agent%20%26%20Systems%20Engineer%20%7C%20Building%20Autonomous%20AI%20Systems&descAlignY=58&descSize=17" width="100%"/>
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9B8AFF&center=true&vCenter=true&width=900&lines=AI+Agent+%26+Systems+Engineer+in+the+Making;Architecting+Autonomous+AI+Agents;Building+Agentic+Workflows+%26+Multi-Agent+Systems;LLMs+%7C+Advanced+RAG+%7C+Function+Calling;Engineering+Reliable+AI+Systems" />
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6E56CF&center=true&vCenter=true&width=650&lines=AI+Agent+%26+Systems+Engineer+in+the+Making;Architecting+Autonomous+AI+Agents;Building+Agentic+Workflows+%26+Multi-Agent+Systems;LLMs+%7C+Advanced+RAG+%7C+Function+Calling;Engineering+Reliable+AI+Systems" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
